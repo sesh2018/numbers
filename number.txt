@@ -1,4 +1,4 @@
-Numbers from 1 to 20
+Numbers from 1 to 25
 One
 Two
 three
@@ -17,5 +17,8 @@ Fifteen
 Sixteen
 Seventeen
 eighteen
-Ninteen
-twenty
+21
+22
+23
+24
+25
