@@ -19,5 +19,4 @@ Seventeen
 eighteen
 Ninteen
 twenty
-#Below numbers should only be in numerics
-# include below from new Branch "21 to 25" 
+
